@@ -13,6 +13,16 @@
 ###
 
 <div align="center">
+  <img height="200" src="https://media1.tenor.com/m/2aZebeE8bqYAAAAC/one-piece-chopper.gif"  />
+</div>
+
+###
+
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="38" alt="javascript logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=ts" height="38" alt="typescript logo"  />
@@ -32,23 +42,13 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/2aZebeE8bqYAAAAC/one-piece-chopper.gif"  />
-</div>
+<h2 align="center">🐍 MY CONTRIBUTIONS 🐍</h2>
 
 ###
 
-<div align="center">
-  <a href="mailto:ashcold21@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/aayush-thakur-1014bb1aa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/thakur_APanwar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
-  </a>
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/aayushthakur1999/aayushthakur1999/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -63,15 +63,24 @@
 
 ###
 
-<h2 align="center">🐍 MY CONTRIBUTIONS 🐍</h2>
+<h3 align="center">Contact Me 📞</h3>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aayushthakur1999/aayushthakur1999/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="mailto:ashcold21@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/aayush-thakur-1014bb1aa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/thakur_APanwar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
 ###
+
 <!---
 AayushThakur1999/AayushThakur1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
