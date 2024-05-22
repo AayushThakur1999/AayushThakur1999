@@ -8,16 +8,62 @@
   </a>
 </h1>
 
-<h3 align='center'>
-  I'm a passionate Frontend Developer
-</h3>
-</br>
+<h2 align="left">I'm a passionate frontend dev</h2>
 
-- 👋 Hi, I’m @AayushThakur1999
-- 🌱 I’m currently learning Full Stack Development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+###
 
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/aXqdQG9UZOgAAAAC/laughing-tom-and-jerry.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="38" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=ts" height="38" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="38" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=redux" height="38" alt="redux logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=java" height="38" alt="java logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="38" alt="nextjs logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="ashcold21@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/aayush-thakur-1014bb1aa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/thakur_APanwar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushthakur1999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushthakur1999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/aayushthakur1999/aayushthakur1999/output/snake.svg" alt="Snake animation" />
+
+###
 <!---
 AayushThakur1999/AayushThakur1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
