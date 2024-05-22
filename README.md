@@ -1,4 +1,4 @@
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAayushThakur1999&labelColor=%23697689&countColor=%2337d67a&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAayushThakur1999)
+<img align='right' src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAayushThakur1999&labelColor=%23697689&countColor=%2337d67a&style=flat-square&labelStyle=upper' />
 
 - 👋 Hi, I’m @AayushThakur1999
 - 🌱 I’m currently learning Full Stack Development.
