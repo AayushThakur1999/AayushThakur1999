@@ -39,8 +39,9 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="38" alt="nextjs logo"  />
 </div>
-</br>
 ###
+
+</br>
 
 <h2 align="center">🐍 MY CONTRIBUTIONS 🐍</h2>
 
