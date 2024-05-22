@@ -8,6 +8,11 @@
   </a>
 </h1>
 
+<h3 align='center'>
+  I'm a passionate Frontend Developer
+</h3>
+</br>
+
 - 👋 Hi, I’m @AayushThakur1999
 - 🌱 I’m currently learning Full Stack Development.
 - 💞️ I’m looking to collaborate on ...
