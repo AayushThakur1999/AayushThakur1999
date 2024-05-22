@@ -8,13 +8,7 @@
   </a>
 </h1>
 
-<h2 align="left">I'm a passionate frontend dev</h2>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/aXqdQG9UZOgAAAAC/laughing-tom-and-jerry.gif"  />
-</div>
+<h3 align="center">I'm a passionate frontend dev from India</h3>
 
 ###
 
@@ -39,6 +33,12 @@
 ###
 
 <div align="center">
+  <img height="200" src="https://media1.tenor.com/m/2aZebeE8bqYAAAAC/one-piece-chopper.gif"  />
+</div>
+
+###
+
+<div align="center">
   <a href="ashcold21@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
@@ -52,10 +52,18 @@
 
 ###
 
+<h2 align="center">⚡ Stats ⚡</h2>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayushthakur1999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushthakur1999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<p align="center">🐍 MY CONTRIBUTIONS 🐍</p>
 
 ###
 
