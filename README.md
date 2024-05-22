@@ -63,7 +63,7 @@
 
 ###
 
-<p align="center">🐍 MY CONTRIBUTIONS 🐍</p>
+<h2 align="center">🐍 MY CONTRIBUTIONS 🐍</h2>
 
 ###
 
