@@ -23,15 +23,21 @@
 ###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=js" height="38" alt="javascript logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=ts" height="38" alt="typescript logo"  />
   <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="38" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="38" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="38" alt="nodejs logo"  />
+  <img width="15" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="38" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=redux" height="38" alt="redux logo"  />
   <img width="15" />
