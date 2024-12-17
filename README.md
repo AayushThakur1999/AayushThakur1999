@@ -43,6 +43,8 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=java" height="38" alt="java logo"  />
   <img width="15" />
+  <img src="https://skillicons.dev/icons?i=git" height="38" alt="git logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="38" alt="nextjs logo"  />
 </div>
 </br>
