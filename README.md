@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-<h3 align="center">I'm a passionate frontend dev from India</h3>
+<h3 align="center">A passionate Fullstack Dev!</h3>
 
 ###
 
@@ -33,6 +33,8 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="38" alt="mongodb logo"  />
   <img width="15" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="38" alt="postgreSQL logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=mysql" height="38" alt="mysql logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="38" alt="nodejs logo"  />
@@ -44,8 +46,6 @@
   <img src="https://skillicons.dev/icons?i=java" height="38" alt="java logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=git" height="38" alt="git logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="38" alt="nextjs logo"  />
 </div>
 </br>
 
